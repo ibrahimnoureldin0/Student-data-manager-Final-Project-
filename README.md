@@ -1,4 +1,4 @@
-# Student-data-manager-Final-Project-
+# Student data manager [Final Project]
 # Student Management System
 
 This is a simple Python program that lets you manage student records. You can add, delete, and view students using a menu.
