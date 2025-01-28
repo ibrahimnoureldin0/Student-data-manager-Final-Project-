@@ -38,9 +38,9 @@ This is a simple Python program that lets you manage student records. You can ad
 3. View All Students
 4. Exit
 Enter your choice: 1
-Enter name: John Doe
-Enter age: 20
-Enter department: Computer Science
+Enter name: Omer
+Enter age: 21
+Enter department: Computer Engineering
 ==================================================
 Student added successfully
 ==================================================
